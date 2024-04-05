@@ -30,6 +30,11 @@
 - *Languages & Frameworks*: JavaScript, TypeScript, HTML, CSS, React.js, Next.js, Node.js.
 - *Blockchain & Web3*: Web3.js, Ethers.js, IPFS, Farcaster/auth-kit, wagmi, rainbow-kit, viem.
 
+## What I'm focusing on
+
+I am seeking a dynamic opportunity that will allow me to further develop my development skills while immersing myself in the rapidly evolving landscape of web3 and blockchain technology. I am eager to join a team where I can contribute my expertise while also being challenged to learn and grow in these innovative fields. I am particularly interested in roles that offer hands-on experience with blockchain integration, smart contract development, and decentralized applications, providing me with the platform to make meaningful contributions and expand my knowledge base.
+
+
 ## Certification
 
 - *2024*: WebGl and Three.js UI Development by Bruno Simon.
