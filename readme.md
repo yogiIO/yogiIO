@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Kumar</h1>
-<h3 align="center">A proactive Web3 Front-End Developer specializing in React.js and Next.js</h3>
+<h3 align="center">A proactive Front-End Developer specializing in React.js and Next.js</h3>
 
 - 📫 How to reach me *yk599950@gmail.com*
 
@@ -13,7 +13,7 @@
 
 ## Employment History
 
-*Blockchain Front-End Developer* at Integraate Innovations | Cumberland Labs (Feb 2023 - Present)
+*Front-End Developer* at Integraate Innovations | Cumberland Labs (Feb 2023 - Present)
 - Developed high-speed crypto trading platform *3Trade*, reducing loading times by 50% with Vite.
 - Spearheaded *W3PNFTs* development, enhancing user registration by 80%.
 - Created *HUBz* on TON, improving user engagement by 30%.
@@ -32,7 +32,7 @@
 
 ## What I'm focusing on
 
-I am seeking a dynamic opportunity that will allow me to further develop my development skills while immersing myself in the rapidly evolving landscape of web3 and blockchain technology. I am eager to join a team where I can contribute my expertise while also being challenged to learn and grow in these innovative fields. I am particularly interested in roles that offer hands-on experience with blockchain integration, smart contract development, and decentralized applications, providing me with the platform to make meaningful contributions and expand my knowledge base.
+I am seeking dynamic opportunities that allow me to leverage my expertise in both Web2 and Web3 technologies. While I have a strong background in blockchain integration and decentralized applications, I am also eager to contribute to projects in the Web2 space. My goal is to join a team where I can apply my skills in React.js, Next.js, and other front-end technologies to create innovative and user-friendly applications. I am particularly interested in roles that offer a mix of traditional web development and opportunities to explore new frontiers in technology, enabling me to make meaningful contributions and continue growing as a developer.
 
 
 ## Certification
