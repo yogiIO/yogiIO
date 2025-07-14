@@ -37,7 +37,7 @@ I am seeking dynamic opportunities that allow me to leverage my expertise in bot
 
 ## Certification
 
-- *2024*: WebGl and Three.js UI Development by Bruno Simon.
+- *2025 (Pursuing)*: WebGl and Three.js UI Development by Bruno Simon.
 
 ## Connect with me:
 For collaborations, discussions, or any inquiries, feel free to email me at [yk599950@gmail.com](mailto:yk599950@gmail.com). Let's explore the infinite possibilities of blockchain technology together!
