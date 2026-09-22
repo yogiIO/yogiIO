@@ -15,7 +15,7 @@
 
 ## Employment History
 
-*Software Engineer* at Saksoft Limited (Oct 2025 - Present)
+*Senior Software Engineer* at Saksoft Limited (Oct 2025 - Present)
 - Advanced content modeling using Contentstack, establishing reusable global fields and flexible modular blocks for scalable enterprise layouts.
 - Led technical SEO for a large enterprise Next.js application, automating schema.org structured data generation and optimizing meta descriptions and tags.
 - Implemented webhook-driven Incremental Static Regeneration (ISR) for marketing pages to ensure instant automated content updates.
@@ -23,7 +23,7 @@
 - Integrated Akamai CDN for global asset delivery and edge caching, optimizing Core Web Vitals and reducing origin load.
 - Utilized AB Tasty for feature flagging and client-side A/B testing to support seamless experiment rollouts.
 
-*Software Engineer* at Integraate Innovations Pvt. Ltd (Feb 2023 - Sep 2025)
+*Software Developer* at Integraate Innovations Pvt. Ltd (Feb 2023 - Sep 2025)
 - Developed robust PostgreSQL (AWS RDS) database models and designed scalable RESTful APIs using Node.js, Express.js, and Fastify, secured with JWT and AWS IAM policies.
 - Developed *JurisAI*, a real-time legal assistant platform with WebSocket streams, AWS Lambda serverless handlers, and low-latency response streaming.
 - Spearheaded *w3pnfts* launchpad using Next.js 12, Wagmi, and RainbowKit, integrating smart contracts (ERC-721) with backend verification endpoints.
